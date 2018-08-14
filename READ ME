@@ -1,0 +1,4 @@
+- telecharge le git hub
+- vas sur le fichier 
+- pose la page HTML sur google 
+- KIF
